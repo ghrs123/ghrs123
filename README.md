@@ -27,13 +27,13 @@
   <img align="center" alt="ghrs-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
    <img align="center" alt="ghrs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
-
+ 
  </br>
- <hr>
+
 <div align="center">
    <a href="https://www.instagram.com/gustavoh.r.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-     badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/gustavo-santos-79132167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <hr>
+
   </br>
  
   ![Snake animation](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.svg)
