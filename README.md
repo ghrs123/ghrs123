@@ -1,9 +1,11 @@
 ### Olá! Eu sou o Gustavo Santos 👋
 
-
+   [![Example](https://github-stats-alpha.vercel.app/api?username=ghrs123&cc=000&tc=fff&ic=fff&bc=000 "Example")](https://github-stats-alpha.vercel.app/api?username=ghrs123&cc=000&tc=fff&ic=fff&bc=000 "Example")
 <br>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ 
  <h2 align="center">BEM VINDO AO MEU PERFIL</h2>
 </p>
 
@@ -34,10 +36,7 @@
 <div align="center">
   <a href="https://www.instagram.com/gustavoh.r.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-santos-79132167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
 <div align="center">
-  
   ![Snake animation](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
