@@ -3,8 +3,10 @@
 <br>
 
 <p align="center">
-<img width="100px" src="https://avatars.githubusercontent.com/u/79223128?v=4" alt="GitHub Readme Stats" />
- <h2 align="center"><b>BEM VINDO AO MEU PERFIL!! 😀</b></h2>
+ <a href="https://github.com/ghrs123">
+    <img width="100px" src="https://avatars.githubusercontent.com/u/79223128?v=4" alt="GitHub Readme Stats" />
+     <h2 align="center"><b>BEM VINDO AO MEU PERFIL!! 😀</b></h2>
+  </a>
 </p>
 
 <div align="center">
@@ -36,8 +38,8 @@
    <img align="center" alt="ghrs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 
  </br>
- <a href="https://github.com/ghrs123">
+ 
   ![Snake animation](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.svg)
-  </a>
+  
 </div>
  
