@@ -18,6 +18,7 @@
   <a href="https://github.com/ghrs123">
      <img height="180em" width="417px" src="https://github-readme-stats.vercel.app/api?username=ghrs123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" width="417px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghrs123&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
  </div>
 <hr>
 
@@ -33,10 +34,10 @@
    <img align="center" alt="ghrs-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="ghrs-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
    <img align="center" alt="ghrs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-</div>
- 
- </br>
 
+ </br>
+ <a href="https://github.com/ghrs123">
   ![Snake animation](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.svg)
+  </a>
 </div>
  
