@@ -40,6 +40,6 @@
  
  </br>
  
-   <a href="https://github.com/ghrs123">![Snake animation](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.svg)</a>
+   <a href="https://github.com/ghrs123">![Snake animation](https://github.com/ghrs123/blob/output/github-contribution-grid-snake.svg)</a>
 </div>
 
