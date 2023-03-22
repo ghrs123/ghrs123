@@ -4,7 +4,7 @@
 <div>
 <p align="center">
  <a href="https://github.com/ghrs123">
-    <img width="100px" src="https://avatars.githubusercontent.com/u/79223128?v=4" alt="GitHub Readme Stats" />
+    <img width="100px" src="https://avatars.githubusercontent.com/u/79223128?s=400&u=568d02489503699cdbb61d92c57e9c7343f2fd70&v=4" alt="GitHub Readme Stats" />
   </a>
    <h2 align="center"><b>BEM VINDO AO MEU PERFIL!! 😀</b></h2>
 </p>
