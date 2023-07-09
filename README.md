@@ -5,7 +5,7 @@
 <p align="center">
  <a href="https://github.com/ghrs123">
     <img width="100px" src="https://avatars.githubusercontent.com/u/79223128?s=400&u=568d02489503699cdbb61d92c57e9c7343f2fd70&v=4" alt="GitHub Readme Stats" />
-  </a>
+ </a>
    <h2 align="center"><b>BEM VINDO AO MEU PERFIL!! 😀</b></h2>
 </p>
 </div>
@@ -21,13 +21,11 @@
   <a href="https://github.com/ghrs123">
      <img height="180em" width="417px" src="https://github-readme-stats.vercel.app/api?username=ghrs123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" width="417px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghrs123&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
- </div>
+   </a>
+</div>
 <hr>
 
  <div align="center" style="display: inline_block ">
- </div>
-   <p>
       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
        <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
        <a href="https://github.com/ghrs123"><img align="center" salt="ghrs-bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> </a>
@@ -40,8 +38,6 @@
       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> </a>
       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> </a>
      <br>
-   
-   </p>
 </div>
   ![snake gif](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.gif)
 
