@@ -39,9 +39,9 @@
        <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> </a>
       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> </a>
       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> </a>
+     <br>
+     <a href="https://github.com/ghrs123">![snake gif](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.gif)</a>
    </p>
 </div>
-<div>
-   <a href="https://github.com/ghrs123">![snake gif](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.gif)</a>
-</div>
+
 
