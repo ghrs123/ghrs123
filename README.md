@@ -24,7 +24,8 @@
    </a>
 </div>
 <hr>
-
+   ![snake gif](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.gif)
+   <br>
  <div align="center" style="display: inline_block ">
       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
        <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
@@ -39,5 +40,5 @@
       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> </a>
      <br>
 </div>
-  ![snake gif](https://github.com/ghrs123/ghrs123/blob/output/github-contribution-grid-snake.gif)
+
 
