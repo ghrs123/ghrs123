@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@main
+        uses: vn7n24fzkq/github-profile-summary-cards@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Animation
-        uses: Platane/snk@main
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: ghrs123
@@ -41,7 +41,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Achievements metrics
-        uses: lowlighter/metrics@main
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.ACCESS_TOKEN }}
@@ -56,6 +56,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Github metrics
-        uses: lowlighter/metrics@main
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
