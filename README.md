@@ -25,13 +25,12 @@
 <hr>
 
  <div align="center" style="display: inline_block ">
-       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
        <a href="https://github.com/ghrs123"><img align="center" salt="ghrs-bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> </a>
        <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> </a>
+       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"> </a>
        <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"> </a>
-       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> </a>
-       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> </a>
-      <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> </a>
+       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-Database" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> </a>
+      <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"> </a>
       <a href="https://github.com/ghrs123"><img align="center" alt="ghrs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> </a>
      <br>
 </div>
